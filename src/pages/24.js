@@ -3,6 +3,6 @@ import Link from 'gatsby-link';
 
 export default ({ transition }) => (
   <div style={transition && transition.style}>
-    <h1>Why should I know about it?</h1>
+    <h1>Still, why should I learn about it?</h1>
   </div>
 );

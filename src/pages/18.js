@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 export default ({ transition }) => (
   <div style={transition && transition.style}>
-    <h2>Gatsby is:</h2>
+    <h2>Ways to think about Gatsby</h2>
     <p>1. Gatsby is designed with the goal that it’d be really really hard to build a slow site :)</p>
 
     <p>2. Gatsby is a website compiler</p>

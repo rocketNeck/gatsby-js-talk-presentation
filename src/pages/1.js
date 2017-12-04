@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 export default ({ transition }) => (
   <div style={transition && transition.style}>
-    <h1>The greatest Gatsby</h1>
+    <h1>Gatsby, is it great?</h1>
 
     <small>An open source  project, <br />
     <span><i>static site generator</i>  <bold>OR</bold>  <i>javascript web framework</i> <bold>OR</bold> <i>pwa generator</i></span><br /><br />

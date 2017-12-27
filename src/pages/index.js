@@ -9,4 +9,4 @@ class Index extends Component {
     return <div />;
   }
 }
-export default Index;
+export default Index

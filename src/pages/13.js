@@ -3,8 +3,6 @@ import Link from 'gatsby-link';
 
 export default ({ transition }) => (
   <div style={transition && transition.style}>
-    <h4>PWA - Progressive Web App</h4>
-    <Link to="https://developers.google.com/web/progressive-web-apps/" activeStyle={{clolor: 'red'}}>developers.google</Link><br />
-    <small>A whole talk in itself... but quickly...</small>
+    <h1>Ecosystem || Where does it live? || Buzzwords!</h1>
   </div>
 );

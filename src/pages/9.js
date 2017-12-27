@@ -3,7 +3,8 @@ import Link from 'gatsby-link';
 
 export default ({ transition }) => (
   <div style={transition && transition.style}>
-    JAMstack: noun \’jam-stak’\ <br/>
-Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+    <h4>1. Some buzzword descriptions and ecosystem explanation</h4>
+    <h4>2. Features and selling points.</h4>
+    
   </div>
 );

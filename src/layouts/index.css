@@ -1,7 +1,7 @@
 :root {
-  --bg: #fdfdfd;
-  --meta: #888;
-  --accent: #3178cd;
+  --bg: #f9fbe7;
+  --meta: #b4a647;
+  --accent: #827717;
   --text: black;
   --base: 1.5rem;
 }
@@ -12,7 +12,7 @@
 
 body,
 html {
-  font-family: BlinkMacSystemFont;
+  font-family: ;
   font-size: var(--base);
   -webkit-font-smoothing: antialiased;
   font-feature-settings: 'calt', 'liga', 'hist', 'onum', 'pnum';
